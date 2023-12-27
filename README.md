@@ -6,6 +6,7 @@ I'm currently a first year student studying Bachelor of Computer Science in Data
 - I'm from Kuching,Sarawak
 - I love to watch movies, reading and listening to music during my leisure time.
 
+
 **🏫My Education🏫**
 
 Primary School: SJKC CHUNG HUA NO.4
@@ -15,6 +16,7 @@ Secondary School: SMJK KUCHING HIGH
 Pre-University: Foundation in UTMSPACE
 
 University: UNIVERSITI TEKNOLOGI MALAYSIA (UTM)
+
 
 **✨My Programming Skills✨**
 - C++
