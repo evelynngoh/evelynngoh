@@ -21,7 +21,14 @@ University: UNIVERSITI TEKNOLOGI MALAYSIA (UTM)
 **✨My Programming Skills✨**
 - C++
 - Phyton
+- HTML
 
+**📚Courses (Year 1 Sem 1)📚**
+- Discrete Structure
+- Digital Logic
+- Programming Technique I
+- Technology & Information System
+- Integrity & Anti-Corruption
 
 <!---
 evelynngoh/evelynngoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
