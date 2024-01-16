@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Evelyn Goh Yuan Qi
 I'm currently a first year student studying Bachelor of Computer Science in Data Engineering at Universiti Teknologi Malaysia(UTM). I decided on this degree because I'm interested in computer science and it has great job possibilities going forward.
 
+**Link for [e-portfolio website](https://evelyngoh.netlify.app/)**
+
 **About me😉**
 - I'm 19 years old
 - I'm from Kuching,Sarawak
