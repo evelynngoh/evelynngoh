@@ -33,10 +33,16 @@ University: UNIVERSITI TEKNOLOGI MALAYSIA (UTM)
 - Integrity & Anti-Corruption
 
 **📃Certificate📃**
+
 Certificate for [Community Engagement Showcase & Cocurriculum Carnival](https://github.com/evelynngoh/evelynngoh/files/13958155/Certificate_for_EVELYN_GOH_YUAN_QI_for_KEHADIRAN_PESERTA_CESCO_SES.pdf)
 
 
 **Honors & Awards**
+
+-[Academic Excellence Award](https://github.com/evelynngoh/evelynngoh/files/13958167/Academic.Excellence.Award.pdf)
+
+-[Academic Transcript](https://github.com/evelynngoh/evelynngoh/files/13958168/Academic.Transcript.pdf)
+
 <!---
 evelynngoh/evelynngoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
