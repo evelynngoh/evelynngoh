@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Evelyn Goh Yuan Qi
 I'm currently a first year student studying Bachelor of Computer Science in Data Engineering at Universiti Teknologi Malaysia(UTM). I decided on this degree because I'm interested in computer science and it has great job possibilities going forward.
 
-**Link for [e-portfolio website](https://evelyngoh.netlify.app/)**
+**🔗Link for [e-portfolio website](https://evelyngoh.netlify.app/)**
 
 **About me😉**
 - I'm 19 years old
@@ -32,6 +32,11 @@ University: UNIVERSITI TEKNOLOGI MALAYSIA (UTM)
 - Technology & Information System
 - Integrity & Anti-Corruption
 
+**📃Certificate📃**
+Certificate for [Community Engagement Showcase & Cocurriculum Carnival](https://github.com/evelynngoh/evelynngoh/files/13958155/Certificate_for_EVELYN_GOH_YUAN_QI_for_KEHADIRAN_PESERTA_CESCO_SES.pdf)
+
+
+**Honors & Awards**
 <!---
 evelynngoh/evelynngoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
