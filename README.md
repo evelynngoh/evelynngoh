@@ -57,9 +57,9 @@ University: UNIVERSITI TEKNOLOGI MALAYSIA (UTM)
 
 **🎊Honors & Awards🎊**
 
--[Academic Excellence Award](https://github.com/evelynngoh/evelynngoh/files/13958167/Academic.Excellence.Award.pdf)
+- [Academic Excellence Award](https://github.com/evelynngoh/evelynngoh/files/13958167/Academic.Excellence.Award.pdf)
 
--[Academic Transcript](https://github.com/user-attachments/files/28203742/Academic.Transcript.pdf)
+- [Academic Transcript](https://github.com/user-attachments/files/28203742/Academic.Transcript.pdf)
 
 <!---
 evelynngoh/evelynngoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
