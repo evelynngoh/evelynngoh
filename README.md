@@ -6,7 +6,7 @@
 ---
 Motivated Data Engineering student seeking opportunities to apply cloud computing, big data technologies, and analytics skills to solve real-world business problems.
 
-**🔗Link for [e-portfolio website](https://evelyngoh.netlify.app/)**
+**🔗Link for [e-portfolio website](https://sites.google.com/view/eportfolio-evelyn11)**
 
 **About me😉**
 - I'm 22 years old
