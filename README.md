@@ -45,7 +45,7 @@ University: UNIVERSITI TEKNOLOGI MALAYSIA (UTM)
 - System Analysis & Designs
 - Special Topic in Data Engineering
 
-## 📌Project📌
+## 📌Projects📌
 ### [KADA System (All-in-One Online Platform)](https://github.com/evelynngoh/KADA-system)                                       	          
 - Collaborated in a team of five to develop a digital platform for Koperasi Kakitangan KADA Kelantan Berhad.
 - Developed and automated features such as member registration, loan applications, and contribution payment management to improve operational efficiency.
