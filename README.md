@@ -4,7 +4,7 @@
 </div>
 
 ---
-Motivated Data Engineering student seeking opportunities to apply cloud computing, big data technologies, and analytics skills to solve real-world business problems.
+Motivated Data Engineering student with hands-on experience in data engineering, analytics, and cloud technologies through academic and industry-based projects. Experienced in designing data pipelines, performing data processing and transformation, and developing analytical dashboards using Python, Apache Spark, Microsoft Azure, SQL, and Power BI. Passionate about leveraging data to generate meaningful insights and support data-driven decision-making while continuously expanding technical knowledge and practical skills.
 
 **🔗Link for [e-portfolio website](https://sites.google.com/view/eportfolio-evelyn11)**
 
